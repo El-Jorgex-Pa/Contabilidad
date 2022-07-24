@@ -1,0 +1,1 @@
+Inicio del proyecto de la contabilidad en una tienda pequeña
